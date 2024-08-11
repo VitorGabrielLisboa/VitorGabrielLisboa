@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá, meu nome é Vitor Gabriel</h2>
+<h1 align="center">👋 Olá, meu nome é Vitor Gabriel</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Sobre Mim ✨</h3>
+<h2 align="left">Sobre Mim ✨</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">Skills 🎨</h3>
+<h2 align="left">Skills 🎨</h2>
 
 ###
 

@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">- 🌲Estou revisando a triade do desenvolvimento web.</p>
+<p align="left">- 🌲Estou aprendendo conceitos do Node.js.</p>
 
 ###
 
-<p align="left">- 🎯Meu objetivo atual é aprender a criar um website com banco de dados.</p>
+<p align="left">- 🎯Meu objetivo atual é criar uma aplicação web fullstack.</p>
 
 ###
 
@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://devicon-website.vercel.app/api/react/original.svg" height="40" alt="react logo"/>
 </div>
 
 ###
